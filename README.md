@@ -10,8 +10,17 @@ The project involves an admin creating an agent and two customers, depositing fu
     
     https://nodejs.org/en/download/current
 
+    2. Run documentation link . 
+        Open in your postman windows client .
+        Share collection via api.
+        Create a .env file in project.
+        Write api_key= your postman share api.
+        Create Reports folder on root directory
+        
+
 ## Run this Project
-    1. git clone 
+    1. git clone https://github.com/hasan-sagar/Dmoney-api-report.git
+    2. Run project : npm start
 
 ## Documentation
 
