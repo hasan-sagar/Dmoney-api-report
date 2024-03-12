@@ -4,6 +4,9 @@
 ### Project Intro : 
 The project involves an admin creating an agent and two customers, depositing funds from a system account to the agent, enabling the agent to deposit to a customer, checking balances, facilitating withdrawals and transfers between customers, and concluding with the merchant checking their balance.
 
+### Test cases for this project
+https://docs.google.com/spreadsheets/d/1WHAo2JriRzjQF4-6rH_on9dDITWs0ENXYjYzM1466W8/edit
+
 ## Prerequisites
 
     1. Install NodeJs Lts version from this link : 
